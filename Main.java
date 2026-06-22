@@ -1,11 +1,9 @@
-import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt();
+        int a = 16
         System.out.println("Hello world");
         System.out.println("My age is "+ a);
-        scanner.close();
 
 
     }
